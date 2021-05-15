@@ -1,0 +1,11 @@
+.idea/
+quokka/__pycache__/
+quokka/controller/__pycache__/
+quokka/models/__pycache__/
+quokka/controller/device/__pycache__/
+quokka-ui/quokka-ssl.crt
+quokka-ui/quokka-ssl.key
+quokka/controller/host/__pycache__/
+quokka/views/__pycache__/
+quokka-workers/__pycache__/
+quokka/data/cisco.*
