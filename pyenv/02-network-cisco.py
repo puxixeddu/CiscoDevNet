@@ -46,3 +46,5 @@ def get_auth_token():
  
 if __name__ == "__main__":
     get_device_list()
+
+
